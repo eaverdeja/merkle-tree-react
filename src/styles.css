@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.nodeNameBase {
+  font-size: 20px;
+}
